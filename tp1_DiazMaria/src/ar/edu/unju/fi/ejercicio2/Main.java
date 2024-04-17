@@ -7,7 +7,7 @@ public class Main {
         int edadPersona = 32;
         double alturaEdificio = 120.5;
         double precioProducto = 145;
-        String numeroTelefono = "123456789";
+        String numeroTelefono = "3885133298";
         double coseno = Math.cos(0.5); // Calculamos el coseno de 0.5
 
         // Mostrar los valores por consola
